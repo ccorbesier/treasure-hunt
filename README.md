@@ -27,6 +27,9 @@ The treasure you're looking for may be here... :)
 * [Bootstrap](http://getbootstrap.com/): "The most popular HTML, CSS, and JS framework for developing responsive"
 * Yours?
 
+## Colors
+* [Adobe Color CC](https://color.adobe.com/create/color-wheel/): Previously named Adobe Kuler
+
 ## Technology watch
 * [CodeVisually](http://codevisually.com/): "Web developer tools & resources"
 * [OXP (Onextrapixel)](http://www.onextrapixel.com/): "Leading online magazine and resource site for designers and web developers"
