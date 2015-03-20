@@ -18,4 +18,5 @@ The treasure you're looking for may be here... :)
 
 ## Technology watch
 * [CodeVisually](http://codevisually.com/): "Web developer tools & resources"
+* [OXP (Onextrapixel)](http://www.onextrapixel.com/): "Leading online magazine and resource site for designers and web developers"
 * Yours?
