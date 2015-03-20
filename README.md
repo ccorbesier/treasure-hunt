@@ -22,6 +22,7 @@ The treasure you're looking for may be here...
 * [Text shadow](http://css3gen.com/text-shadow/): "CSS3 Text Shadow Generator"
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/): "A powerful Photoshop-like CSS gradient editor"
 * [FavIcon Generator](http://tools.dynamicdrive.com/favicon/): Not the most beautiful one but working fine
+* Yours?
 
 ## Frameworks
 * [Bootstrap](http://getbootstrap.com/): "The most popular HTML, CSS, and JS framework for developing responsive"
@@ -30,6 +31,10 @@ The treasure you're looking for may be here...
 ## Snippets
 * [Bootsnipp](http://bootsnipp.com/): "Design elements, playground and code snippets for Bootstrap"
 * Yours?
+
+## GIS
+* [Leaflet](http://leafletjs.com/): "An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps"
+* [OpenLayers 3](http://openlayers.org/): "A high-performance, feature-packed library for all your mapping needs"
 
 ## Inspirations
 * [{wrap}bootstrap](https://wrapbootstrap.com/): Themes & templates based on Bootstrap
