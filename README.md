@@ -26,6 +26,9 @@ The treasure you're looking for may be here...
 
 ## Frameworks
 * [Bootstrap](http://getbootstrap.com/): "The most popular HTML, CSS, and JS framework for developing responsive"
+* [Ratchet](http://goratchet.com/): "Build mobile apps with simple HTML‚ CSS‚ and JS components"
+* [Zurb Foundation](http://foundation.zurb.com/): "The most advanced responsive front-end framework in the world"
+* [Zurb Foundation for Apps](http://foundation.zurb.com/apps/): "The first front-end framework created for developing fully responsive web apps"
 * Yours?
 
 ## Snippets
@@ -55,4 +58,5 @@ The treasure you're looking for may be here...
 * [CodeVisually](http://codevisually.com/): "Web developer tools & resources"
 * [OXP (Onextrapixel)](http://www.onextrapixel.com/): "Leading online magazine and resource site for designers and web developers"
 * [Smashing Magazine](http://www.smashingmagazine.com/): "The Smashing team is committed to stimulating creativity and strengthening the web design community’s creative forces"
+* [La tête dans le flux](http://blog.goetter.fr/): "Bonjour, je voudrais un pack de <br /> s'il vous plait"
 * Yours?
