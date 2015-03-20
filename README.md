@@ -37,6 +37,10 @@ The treasure you're looking for may be here...
 * [OpenLayers 3](http://openlayers.org/): "A high-performance, feature-packed library for all your mapping needs"
 * Yours?
 
+## Data viz
+* [D3 (Data-Drive Documents](http://d3js.org/): "JavaScript library for manipulating documents based on data"
+* Yours?
+
 ## Inspirations
 * [{wrap}bootstrap](https://wrapbootstrap.com/): Themes & templates based on Bootstrap
 * [Themeforest](http://themeforest.net/): "18,370 Website Templates and Themes"
