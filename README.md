@@ -33,6 +33,9 @@ The treasure you're looking for may be here... :)
 
 ## Inspirations
 * [{wrap}bootstrap](https://wrapbootstrap.com/): Themes & templates based on Bootstrap
+* [Themeforest](http://themeforest.net/): "18,370 Website Templates and Themes"
+* [Bootstrap Zero](http://bootstrapzero.com/): "The largest open-source, free Bootstrap template collection"
+* Yours?
 
 ## Colors
 * [Adobe Color CC](https://color.adobe.com/create/color-wheel/): Previously named Adobe Kuler
