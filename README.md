@@ -3,6 +3,7 @@ The treasure you're looking for may be here...
 
 ## CSS
 * [SHRTHND](http://shrthnd.volume7.io/): Input your expanded CSS, SHRTHND will shortened it. Powerful tool.
+* [SMACSS](https://smacss.com/): "One of the most useful contributions to front-end discussions in years"
 * Yours?
 
 ## JS
@@ -63,4 +64,8 @@ The treasure you're looking for may be here...
 * [OXP (Onextrapixel)](http://www.onextrapixel.com/): "Leading online magazine and resource site for designers and web developers"
 * [Smashing Magazine](http://www.smashingmagazine.com/): "The Smashing team is committed to stimulating creativity and strengthening the web design community’s creative forces"
 * [La tête dans le flux](http://blog.goetter.fr/): "Bonjour, je voudrais un pack de ``<br />`` s'il vous plait"
+* [Alsacréations](http://www.alsacreations.com/): "Communauté d'apprentissage des standards du web"
 * Yours?
+
+## Readings/books
+* [JavaScript & JQuery: Interactive Front-End Web Development](http://www.amazon.fr/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=tmm_pap_swatch_0?_encoding=UTF8&sr=&qid=)
