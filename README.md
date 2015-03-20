@@ -15,6 +15,8 @@ The treasure you're looking for may be here...
 ## Icons
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/): "The iconic font and CSS toolkit"
 * [Flaticon](http://www.flaticon.com/): "The largest database of free vector icons"
+* [Glyphicon](http://glyphicons.com/): "Precisely prepared monochromatic icons and symbols"
+* [Entypo](http://www.entypo.com/): "411 carefully crafted premium pictograms"
 * Yours?
 
 ## Generators
@@ -49,6 +51,7 @@ The treasure you're looking for may be here...
 * [{wrap}bootstrap](https://wrapbootstrap.com/): Themes & templates based on Bootstrap
 * [Themeforest](http://themeforest.net/): "18,370 Website Templates and Themes"
 * [Bootstrap Zero](http://bootstrapzero.com/): "The largest open-source, free Bootstrap template collection"
+* [Pinterest](https://fr.pinterest.com/): "Découvrir et d'enregistrer des idées créatives à l'aide de signets visuels"
 * Yours?
 
 ## Colors
