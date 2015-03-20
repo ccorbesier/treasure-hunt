@@ -27,8 +27,16 @@ The treasure you're looking for may be here... :)
 * [Bootstrap](http://getbootstrap.com/): "The most popular HTML, CSS, and JS framework for developing responsive"
 * Yours?
 
+## Snippets
+* [Bootsnipp](http://bootsnipp.com/): "Design elements, playground and code snippets for Bootstrap"
+* Yours?
+
+## Inspirations
+* [{wrap}bootstrap](https://wrapbootstrap.com/): Themes & templates based on Bootstrap
+
 ## Colors
 * [Adobe Color CC](https://color.adobe.com/create/color-wheel/): Previously named Adobe Kuler
+* Yours?
 
 ## Technology watch
 * [CodeVisually](http://codevisually.com/): "Web developer tools & resources"
