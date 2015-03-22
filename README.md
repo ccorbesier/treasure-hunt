@@ -69,6 +69,9 @@ The treasure you're looking for may be here...
 
 ## Readings/books
 * [JavaScript & JQuery: Interactive Front-End Web Development](http://www.amazon.fr/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=tmm_pap_swatch_0?_encoding=UTF8&sr=&qid=)
+* [DWM - lectures conseillées](https://dwm.re/lectures-conseillees/)
+* [DMW readlist](http://readlists.com/653bede6/): "User First, Mobile First, Content First"
+* Yours?
 
 ## Need to be sorted
 * [Collective #160](http://tympanus.net/codrops/collective/collective-160/): "30 species * Textures.js * Logdown * type.js * Browser Input Events * sanitize.css * Readable Wearables"
