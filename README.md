@@ -4,6 +4,7 @@ The treasure you're looking for may be here...
 ## CSS
 * [SHRTHND](http://shrthnd.volume7.io/): Input your expanded CSS, SHRTHND will shortened it. Powerful tool.
 * [SMACSS](https://smacss.com/): "One of the most useful contributions to front-end discussions in years"
+* [Stitches](http://draeton.github.io/stitches/): "An HTML5 sprite sheet generator"
 * Yours?
 
 ## JS
