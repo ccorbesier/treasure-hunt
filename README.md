@@ -85,9 +85,19 @@ The treasure you're looking for may be here...
 * Yours?
 
 ## Readings/books
+* [CSS maintenables avec SASS et Compass](http://www.css-maintenables.fr/)
+* [CSS3 pour les web designers](http://www.eyrolles.com/Informatique/Livre/css3-pour-les-web-designers-9782212129878)
 * [DWM - lectures conseillées](https://dwm.re/lectures-conseillees/)
 * [DMW readlist](http://readlists.com/653bede6/): "User First, Mobile First, Content First"
+* [Dynamiser vos sites web avec Javascript](http://www.amazon.fr/Dynamisez-vos-sites-avec-JavaScript/dp/B007SVN1S2)
 * [JavaScript & JQuery: Interactive Front-End Web Development](http://www.amazon.fr/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=tmm_pap_swatch_0?_encoding=UTF8&sr=&qid=)
+* [HTML5 pour les web designers](http://www.eyrolles.com/Informatique/Livre/html5-pour-les-web-designers-9782212128611)
+* [Memento CSS3](http://www.amazon.fr/M%C3%A9mento-CSS3-Rapha%C3%ABl-Goetter/dp/2212141378)
+* [Memento HTML5](http://www.amazon.fr/M%C3%A9mento-HTML5-Rodolphe-Rimel%C3%A9/dp/2212134207)
+* [Memento CSS](http://www.amazon.fr/M%C3%A9mento-CSS-2-Rapha%C3%ABl-Goetter/dp/2212132727)
+* [Mobile First](http://www.editions-eyrolles.com/Livre/9782212134063/mobile-first)
+* [Responsive web design](http://www.editions-eyrolles.com/Livre/9782212133318/responsive-web-design)
+* [Réussir son référencement web](http://www.eyrolles.com/Informatique/Livre/reussir-son-referencement-web-9782212138252)
 * Yours?
 
 ## Editors
