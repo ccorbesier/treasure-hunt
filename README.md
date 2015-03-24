@@ -87,9 +87,9 @@ The treasure you're looking for may be here...
 * Yours?
 
 ## Editors
-* [Brackets](http://brackets.io/): "A modern, open source text editor that understands web design" - Available on Mac OS, Linux (for sure Ubuntu) & Windows
-* [Sublime Text](http://www.sublimetext.com/): "Sublime Text is a sophisticated text editor for code, markup and prose" - Available on Mac OS, Linux (for sure Ubuntu) & Windows
-* [Atom](https://atom.io/): "A hackable text editor for the 21st Century" - Available on Mac OS, Linux (for sure Ubuntu) & Windows
+* [Brackets](http://brackets.io/): "A modern, open source text editor that understands web design" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
+* [Sublime Text](http://www.sublimetext.com/): "Sublime Text is a sophisticated text editor for code, markup and prose" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
+* [Atom](https://atom.io/): "A hackable text editor for the 21st Century" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
 * Yours?
 
 ## Need to be sorted
