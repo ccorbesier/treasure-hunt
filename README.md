@@ -14,6 +14,9 @@ The treasure you're looking for may be here...
 * [Tablesaw](https://github.com/filamentgroup/tablesaw): "A set of jQuery plugins for responsive tables"
 * Yours?
 
+## UX Design
+* [UX Podcast](http://uxpodcast.com/): "It’s not just for UXers, it’s for everyone with a foot in the digital door"
+
 ## Icons
 * [Entypo](http://www.entypo.com/): "411 carefully crafted premium pictograms"
 * [Flaticon](http://www.flaticon.com/): "The largest database of free vector icons"
