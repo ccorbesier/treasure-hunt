@@ -54,6 +54,7 @@ The treasure you're looking for may be here...
 * Yours?
 
 ## Inspirations
+* [Awwwards](http://www.awwwards.com/): "The awards for design, creativity and innovation on the Internet"
 * [Bootstrap Zero](http://bootstrapzero.com/): "The largest open-source, free Bootstrap template collection"
 * [Pinterest](https://fr.pinterest.com/): "Découvrir et d'enregistrer des idées créatives à l'aide de signets visuels"
 * [Themeforest](http://themeforest.net/): "18,370 Website Templates and Themes"
