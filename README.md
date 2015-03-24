@@ -60,6 +60,10 @@ The treasure you're looking for may be here...
 * [Pinterest](https://fr.pinterest.com/): "Découvrir et d'enregistrer des idées créatives à l'aide de signets visuels"
 * Yours?
 
+## Freebies
+* [50 Free Bootstrap Resources, Tools, and Designs](http://designposts.net/50-free-bootstrap-resources-tools-and-design/): "While bootstrap it is immensely useful, you can use several plugins and extensions to make it even more powerful"
+* Yours?
+
 ## Colors
 * [Adobe Color CC](https://color.adobe.com/create/color-wheel/): Previously named Adobe Kuler
 * Yours?
