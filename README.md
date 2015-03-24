@@ -87,17 +87,24 @@ The treasure you're looking for may be here...
 ## Readings/books
 * [CSS maintenables avec SASS et Compass](http://www.css-maintenables.fr/)
 * [CSS3 pour les web designers](http://www.eyrolles.com/Informatique/Livre/css3-pour-les-web-designers-9782212129878)
+* [Design d'expérience utilisateur - Principes et méthodes UX](http://www.eyrolles.com/Informatique/Livre/design-d-experience-utilisateur-9782212134568)
+* [Design émotionnel](http://www.eyrolles.com/Informatique/Livre/design-emotionnel-9782212133981)
 * [DWM - lectures conseillées](https://dwm.re/lectures-conseillees/)
 * [DMW readlist](http://readlists.com/653bede6/): "User First, Mobile First, Content First"
 * [Dynamiser vos sites web avec Javascript](http://www.amazon.fr/Dynamisez-vos-sites-avec-JavaScript/dp/B007SVN1S2)
 * [JavaScript & JQuery: Interactive Front-End Web Development](http://www.amazon.fr/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=tmm_pap_swatch_0?_encoding=UTF8&sr=&qid=)
 * [HTML5 pour les web designers](http://www.eyrolles.com/Informatique/Livre/html5-pour-les-web-designers-9782212128611)
+* [La phrase de recherche en web design](http://www.eyrolles.com/Audiovisuel/Livre/la-phase-de-recherche-en-web-design-9782212141467)
+* [La stratégie de contenu web](http://www.eyrolles.com/Informatique/Livre/strategie-de-contenu-web-9782212132793)
 * [Memento CSS3](http://www.amazon.fr/M%C3%A9mento-CSS3-Rapha%C3%ABl-Goetter/dp/2212141378)
 * [Memento HTML5](http://www.amazon.fr/M%C3%A9mento-HTML5-Rodolphe-Rimel%C3%A9/dp/2212134207)
 * [Memento CSS](http://www.amazon.fr/M%C3%A9mento-CSS-2-Rapha%C3%ABl-Goetter/dp/2212132727)
+* [Métier web designer](http://www.eyrolles.com/Audiovisuel/Livre/metier-web-designer-9782212135275)
 * [Mobile First](http://www.editions-eyrolles.com/Livre/9782212134063/mobile-first)
 * [Responsive web design](http://www.editions-eyrolles.com/Livre/9782212133318/responsive-web-design)
 * [Réussir son référencement web](http://www.eyrolles.com/Informatique/Livre/reussir-son-referencement-web-9782212138252)
+* [SASS pour les web designers](http://www.eyrolles.com/Informatique/Livre/sass-pour-les-web-designers-9782212141474)
+* [Stratégie de contenu mobile](http://www.eyrolles.com/Informatique/Livre/strategie-de-contenu-mobile-9782212136753)
 * Yours?
 
 ## Editors
