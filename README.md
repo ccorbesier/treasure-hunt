@@ -22,6 +22,7 @@ The treasure you're looking for may be here...
 * [Flaticon](http://www.flaticon.com/): "The largest database of free vector icons"
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/): "The iconic font and CSS toolkit"
 * [Glyphicon](http://glyphicons.com/): "Precisely prepared monochromatic icons and symbols"
+* [The NounProject](https://thenounproject.com/): "Creating, Sharing and Celebrating the World's Visual Language"
 * Yours?
 
 ## Generators
