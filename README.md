@@ -8,6 +8,7 @@ The treasure you're looking for may be here...
 * Yours?
 
 ## JS
+* [Autocompeter](https://autocompeter.com/): "A really fast AJAX autocomplete service and widget"
 * [jQuery DataTables](https://www.datatables.net/): "Table plug-in for jQuery"
 * [jQuery MatchHeight](http://brm.io/jquery-match-height/): "A more robust equal heights plugin for jQuery"
 * [jQuery OnePage](https://github.com/guillaumebreux/jQuery-Onepage): "This plugin will allowed you to create a smooth one page design"
