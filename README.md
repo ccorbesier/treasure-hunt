@@ -15,7 +15,21 @@ The treasure you're looking for may be here...
 * Yours?
 
 ## UX Design
+* [52 weeks of UX](http://52weeksofux.com/): "A discourse on the process of designing for real people"
+* [A list apart](http://alistapart.com/topics/user-experience): "A List Apart explores the design, development, and meaning of web content, with a special focus on web standards and best practices"
+* [Adaptative path](http://www.adaptivepath.com/ideas/): "A passionate community"
+* [Boxes and arrows](http://boxesandarrows.com/): "Devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business"
+* [Medium](https://medium.com/search?q=ux): "A list about UX"
+* [UX Booth](http://www.uxbooth.com/): "Stories by and for user experience professionals"
+* [UX Kingdom](http://www.uxkingdom.com/): "Content is king! A weekly e-mail with four links inside.  Each e-mail will have a great video, an engaging article, a slick UX related product, and a fun wild card"
+* [UX Magazine](http://uxmag.com/): "A free community resource exploring all facets of experience design"
+* [UX Mind - User Experience Blog](http://uxmind.eu/): "Recherche et pratique en Expérience Utilisateur"
 * [UX Podcast](http://uxpodcast.com/): "It’s not just for UXers, it’s for everyone with a foot in the digital door"
+* [UX und Tollerei](http://uxundtollerei.com/): "A weekly curated reading list of noteworthy articles, resources and news about the latest trends, techniques and insights from the UX community"
+
+### UX tools
+* [UXPin](https://www.uxpin.com/): "UXPin is used by the best designers on the planet. Join them"
+* [UX Recipe](http://uxrecipe.github.io/): "This project is a personal manifesto against the objectification of the term "UX". It's more than UI, it's more than a PSD file"
 
 ## Icons
 * [Entypo](http://www.entypo.com/): "411 carefully crafted premium pictograms"
