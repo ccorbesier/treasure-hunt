@@ -99,6 +99,7 @@ The treasure you're looking for may be here...
 * [La tête dans le flux](http://blog.goetter.fr/): "Bonjour, je voudrais un pack de ``<br />`` s'il vous plait"
 * [Smashing Magazine](http://www.smashingmagazine.com/): "The Smashing team is committed to stimulating creativity and strengthening the web design community’s creative forces"
 * [OXP (Onextrapixel)](http://www.onextrapixel.com/): "Leading online magazine and resource site for designers and web developers"
+* [Butinage *](http://makina-corpus.com/@@search?sort_on=Date&sort_order=reverse&SearchableText=butinage): La veille technologique selon Makina Corpus.
 * Yours?
 
 ## Readings/books
