@@ -74,9 +74,14 @@ The treasure you're looking for may be here...
 
 ## Inspirations
 * [Awwwards](http://www.awwwards.com/): "The awards for design, creativity and innovation on the Internet"
+* [Behance](https://www.behance.net/): "Showcase & Discover Creative Work"
 * [Bootstrap Zero](http://bootstrapzero.com/): "The largest open-source, free Bootstrap template collection"
+* [Coroflot](http://www.coroflot.com/): "We help designers be great and do great things"
+* [DesignM.ag](http://designm.ag/): "A community-based website for web designers and developers"
 * [Pinterest](https://fr.pinterest.com/): "Découvrir et d'enregistrer des idées créatives à l'aide de signets visuels"
+* [SpyreStudios](http://spyrestudios.com/): "Web-design and development magazine"
 * [Themeforest](http://themeforest.net/): "18,370 Website Templates and Themes"
+* [Web Design Ledger](http://webdesignledger.com/): "Written by web designers for web designers. The primary purpose of this site is to act as a platform for sharing web design related knowledge and resources"
 * [{wrap}bootstrap](https://wrapbootstrap.com/): Themes & templates based on Bootstrap
 * Yours?
 
