@@ -9,6 +9,7 @@ The treasure you're looking for may be here...
 
 ## JS
 * [Autocompeter](https://autocompeter.com/): "A really fast AJAX autocomplete service and widget"
+* [fullPage.js](http://alvarotrigo.com/fullPage/#firstPage): "Create Beautiful Fullscreen Scrolling Websites"
 * [jQuery DataTables](https://www.datatables.net/): "Table plug-in for jQuery"
 * [jQuery MatchHeight](http://brm.io/jquery-match-height/): "A more robust equal heights plugin for jQuery"
 * [jQuery OnePage](https://github.com/guillaumebreux/jQuery-Onepage): "This plugin will allowed you to create a smooth one page design"
