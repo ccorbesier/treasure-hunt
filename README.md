@@ -47,6 +47,7 @@ The treasure you're looking for may be here...
 * [Border radius](http://border-radius.com/): The easiest way to generate prefixed CSS border radius. Clear, simple, easy
 * [Box shadow](http://css3gen.com/box-shadow/): "CSS3 Box Shadow Generator"
 * [FavIcon Generator](http://tools.dynamicdrive.com/favicon/): Not the most beautiful one but working fine
+* [SVGOMG](https://jakearchibald.github.io/svgomg/): "SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO"
 * [Text shadow](http://css3gen.com/text-shadow/): "CSS3 Text Shadow Generator"
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/): "A powerful Photoshop-like CSS gradient editor"
 * Yours?
