@@ -110,6 +110,7 @@ The treasure you're looking for may be here...
 * [La tête dans le flux](http://blog.goetter.fr/): "Bonjour, je voudrais un pack de ``<br />`` s'il vous plait"
 * [Smashing Magazine](http://www.smashingmagazine.com/): "The Smashing team is committed to stimulating creativity and strengthening the web design community’s creative forces"
 * [OXP (Onextrapixel)](http://www.onextrapixel.com/): "Leading online magazine and resource site for designers and web developers"
+* [Webdesigner news](http://www.webdesignernews.com/): "Currated stories for designers"
 * Yours?
 
 ## Readings/books
