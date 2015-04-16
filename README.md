@@ -14,6 +14,7 @@ The treasure you're looking for may be here...
 * [jQuery DataTables](https://www.datatables.net/): "Table plug-in for jQuery"
 * [jQuery MatchHeight](http://brm.io/jquery-match-height/): "A more robust equal heights plugin for jQuery"
 * [jQuery OnePage](https://github.com/guillaumebreux/jQuery-Onepage): "This plugin will allowed you to create a smooth one page design"
+* [Papa Parse](http://papaparse.com/): "The powerful, in-browser CSV parser for big boys and girls"
 * [Tablesaw](https://github.com/filamentgroup/tablesaw): "A set of jQuery plugins for responsive tables"
 * Yours?
 
