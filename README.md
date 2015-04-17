@@ -85,6 +85,7 @@ The treasure you're looking for may be here...
 * [Awwwards](http://www.awwwards.com/): "The awards for design, creativity and innovation on the Internet"
 * [Behance](https://www.behance.net/): "Showcase & Discover Creative Work"
 * [Bootstrap Zero](http://bootstrapzero.com/): "The largest open-source, free Bootstrap template collection"
+* [Bootstrapious](http://bootstrapious.com/): "Beautiful Bootstrap themes for free"
 * [Coroflot](http://www.coroflot.com/): "We help designers be great and do great things"
 * [DesignM.ag](http://designm.ag/): "A community-based website for web designers and developers"
 * [Pinterest](https://fr.pinterest.com/): "Découvrir et d'enregistrer des idées créatives à l'aide de signets visuels"
