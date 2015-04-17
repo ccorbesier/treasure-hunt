@@ -66,6 +66,7 @@ The treasure you're looking for may be here...
 
 ## Snippets
 * [Bootsnipp](http://bootsnipp.com/): "Design elements, playground and code snippets for Bootstrap"
+* [CSS-Tricks Code Snippets](http://css-tricks.com/snippets/): "Over the years, despite the hokey name, CSS-Tricks has come to become a site about all things web design and development"
 * Yours?
 
 ## GIS
