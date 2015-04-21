@@ -151,4 +151,5 @@ The treasure you're looking for may be here...
 
 ## Need to be sorted
 * [Collective #160](http://tympanus.net/codrops/collective/collective-160/): "30 species * Textures.js * Logdown * type.js * Browser Input Events * sanitize.css * Readable Wearables"
+* [The Code Kit](http://www.thecodekit.com/?ref=webdesignernews): "A curated selection of essential web design and development tools, news, and inspiration"
 * Yours?
