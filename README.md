@@ -70,6 +70,7 @@ The treasure you're looking for may be here...
 * Yours?
 
 ## Prototypes
+* [Flat UI](http://designmodo.github.io/Flat-UI/): "Free User Interface Kit based on Bootstrap"
 * [Pingendo](http://pingendo.com/): "The simplest app for Bootstrap prototyping"
 
 ## Tutorials
