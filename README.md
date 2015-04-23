@@ -3,19 +3,28 @@ The treasure you're looking for may be here...
 
 ## CSS
 * [BASSCSS](http://www.basscss.com/): "Low-level CSS toolkit"
+* [Hover.css](http://ianlunn.github.io/Hover/): "A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on"
 * [SHRTHND](http://shrthnd.volume7.io/): Input your expanded CSS, SHRTHND will shortened it. Powerful tool.
 * [SMACSS](https://smacss.com/): "One of the most useful contributions to front-end discussions in years"
 * [Stitches](http://draeton.github.io/stitches/): "An HTML5 sprite sheet generator"
 * Yours?
 
 ## JS
+* [Alertify.js](http://fabien-d.github.io/alertify.js/): "Browser dialogs never looked so good"
 * [Autocompeter](https://autocompeter.com/): "A really fast AJAX autocomplete service and widget"
-* [fullPage.js](http://alvarotrigo.com/fullPage/#firstPage): "Create Beautiful Fullscreen Scrolling Websites"
+* [Fotorama](http://fotorama.io/): "A simple, stunning, powerful jQuery gallery"
+* [FullPage.js](http://alvarotrigo.com/fullPage/#firstPage): "Create Beautiful Fullscreen Scrolling Websites"
+* [Headroom.js](http://wicky.nillia.ms/headroom.js/): "Give your pages some headroom. Hide your header until you need it"
+* [iCheck](https://github.com/fronteed/iCheck): "Highly customizable checkboxes and radio buttons for jQuery and Zepto"
+* [jQuery](https://jquery.com/): "Write less. Do more."
 * [jQuery DataTables](https://www.datatables.net/): "Table plug-in for jQuery"
 * [jQuery MatchHeight](http://brm.io/jquery-match-height/): "A more robust equal heights plugin for jQuery"
 * [jQuery OnePage](https://github.com/guillaumebreux/jQuery-Onepage): "This plugin will allowed you to create a smooth one page design"
+* [Numeral JS](http://numeraljs.com/): "A javascript library for formatting and manipulating numbers"
 * [Papa Parse](http://papaparse.com/): "The powerful, in-browser CSV parser for big boys and girls"
 * [Tablesaw](https://github.com/filamentgroup/tablesaw): "A set of jQuery plugins for responsive tables"
+* [Select JS](http://github.hubspot.com/select/docs/welcome/): "Styleable select elements"
+* [Zepto.js](http://zeptojs.com/): "A minimalist JavaScript library for modern browsers with a largely jQuery-compatible API"
 * Yours?
 
 ## UX Design
