@@ -15,6 +15,7 @@ The treasure you're looking for may be here...
 * [Autocompeter](https://autocompeter.com/): "A really fast AJAX autocomplete service and widget"
 * [Fotorama](http://fotorama.io/): "A simple, stunning, powerful jQuery gallery"
 * [FullPage.js](http://alvarotrigo.com/fullPage/#firstPage): "Create Beautiful Fullscreen Scrolling Websites"
+* [Headhesive.js](https://markgoodyear.com/labs/headhesive/): "An on-demand sticky header"
 * [Headroom.js](http://wicky.nillia.ms/headroom.js/): "Give your pages some headroom. Hide your header until you need it"
 * [iCheck](https://github.com/fronteed/iCheck): "Highly customizable checkboxes and radio buttons for jQuery and Zepto"
 * [jQuery](https://jquery.com/): "Write less. Do more."
