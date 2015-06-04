@@ -121,6 +121,7 @@ The treasure you're looking for may be here...
 * [How we browse the web?](http://howwebrowse.be/fr): "Les stats sur l'internet en Belgique. Mises à jour mensuellement"
 * [HTML5Test](https://html5test.com/index.html): "How well does your browser support html5?"
 * [Resizr](http://resizr.co/): "Test your responsive web page"
+* [Character Entity Reference Chart](http://dev.w3.org/html5/html-author/charref): Easy to use.
 *  Yours?
 
 ## Technology watch
