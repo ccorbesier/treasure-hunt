@@ -43,9 +43,9 @@ The treasure you're looking for may be here...
 * [UX und Tollerei](http://uxundtollerei.com/): "A weekly curated reading list of noteworthy articles, resources and news about the latest trends, techniques and insights from the UX community"
 
 ### UX tools
+* [Draw.io](https://www.draw.io/): Powerfull tool to draw charts.
 * [UXPin](https://www.uxpin.com/): "UXPin is used by the best designers on the planet. Join them"
 * [UX Recipe](http://uxrecipe.github.io/): "This project is a personal manifesto against the objectification of the term "UX". It's more than UI, it's more than a PSD file"
-* [Draw.io](https://www.draw.io/): Powerfull tool to draw charts.
 
 ## Icons
 * [365 PSD](http://365psd.com/): "At the begining, 1 PSD/day during a year. Now, more than a million"
