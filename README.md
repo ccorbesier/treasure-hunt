@@ -157,6 +157,7 @@ The treasure you're looking for may be here...
 * [Réussir son référencement web](http://www.eyrolles.com/Informatique/Livre/reussir-son-referencement-web-9782212138252)
 * [SASS pour les web designers](http://www.eyrolles.com/Informatique/Livre/sass-pour-les-web-designers-9782212141474)
 * [Stratégie de contenu mobile](http://www.eyrolles.com/Informatique/Livre/strategie-de-contenu-mobile-9782212136753)
+* [UX is not UI](http://www.uxisnotui.com/): "What so many UX designers would like you to remember is that UX is not just UI design"
 * [UX, UI, c'est différent et c'est pas pareil](http://blog.lunaweb.fr/ux-ui-experience-utilisateur-interface/): "Expérience utilisateur, design web et café chaud"
 * Yours?
 
