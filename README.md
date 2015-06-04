@@ -39,6 +39,7 @@ The treasure you're looking for may be here...
 * [UX Kingdom](http://www.uxkingdom.com/): "Content is king! A weekly e-mail with four links inside.  Each e-mail will have a great video, an engaging article, a slick UX related product, and a fun wild card"
 * [UX Magazine](http://uxmag.com/): "A free community resource exploring all facets of experience design"
 * [UX Mind - User Experience Blog](http://uxmind.eu/): "Recherche et pratique en Expérience Utilisateur"
+* [UXMythes](http://uxmyths.com/): "Build your website based on evidence, not false beliefs"
 * [UX Podcast](http://uxpodcast.com/): "It’s not just for UXers, it’s for everyone with a foot in the digital door"
 * [UX und Tollerei](http://uxundtollerei.com/): "A weekly curated reading list of noteworthy articles, resources and news about the latest trends, techniques and insights from the UX community"
 
