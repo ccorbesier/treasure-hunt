@@ -127,6 +127,7 @@ The treasure you're looking for may be here...
 *  Yours?
 
 ## Technology watch
+* [24 ways](http://24ways.org/): "24 ways to improve your friends"
 * [Alsacréations](http://www.alsacreations.com/): "Communauté d'apprentissage des standards du web"
 * [Butinage *](http://makina-corpus.com/@@search?sort_on=Date&sort_order=reverse&SearchableText=butinage): La veille technologique selon Makina Corpus.
 * [CodeVisually](http://codevisually.com/): "Web developer tools & resources"
