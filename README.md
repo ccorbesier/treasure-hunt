@@ -78,6 +78,7 @@ The treasure you're looking for may be here...
 * [Pingendo](http://pingendo.com/): "The simplest app for Bootstrap prototyping"
 
 ## Tutorials
+* [Daring Fireball - Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax): "Markdown is a text-to-HTML conversion tool for web writers"
 * [Front-End Tutorials Blog](http://www.frontendtutorials.org/): "Web Developers Blog | Free Web Design Tutorials, Tips & Tricks"
 * [Tympanus Codrops Tutorials](http://tympanus.net/codrops/category/tutorials): "In-depth how-tos involving common web development and web design techniques"
 *  Yours?
