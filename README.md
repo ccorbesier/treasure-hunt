@@ -58,6 +58,7 @@ The treasure you're looking for may be here...
 * Yours?
 
 ## Generators
+* [Bootstrap forms generator](http://bootsnipp.com/forms?version=3): Works for Bootstrap 2 and 3.
 * [Border radius](http://border-radius.com/): The easiest way to generate prefixed CSS border radius. Clear, simple, easy
 * [Box shadow](http://css3gen.com/box-shadow/): "CSS3 Box Shadow Generator"
 * [FavIcon Generator](http://tools.dynamicdrive.com/favicon/): Not the most beautiful one but working fine
