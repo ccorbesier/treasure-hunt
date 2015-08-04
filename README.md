@@ -78,6 +78,9 @@ The treasure you're looking for may be here...
 * [Flat UI](http://designmodo.github.io/Flat-UI/): "Free User Interface Kit based on Bootstrap"
 * [Pingendo](http://pingendo.com/): "The simplest app for Bootstrap prototyping"
 
+## Slideshows
+* [Hyhyhy](https://github.com/maciejczyzewski/hyhyhy): "A Ruby library for creating and outputting professional, business-looking (HTML5) presentations that can be viewed inside the browser!"
+
 ## Tutorials
 * [Daring Fireball - Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax): "Markdown is a text-to-HTML conversion tool for web writers"
 * [Front-End Tutorials Blog](http://www.frontendtutorials.org/): "Web Developers Blog | Free Web Design Tutorials, Tips & Tricks"
