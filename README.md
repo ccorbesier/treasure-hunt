@@ -54,6 +54,7 @@ The treasure you're looking for may be here...
 * [Flaticon](http://www.flaticon.com/): "The largest database of free vector icons"
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/): "The iconic font and CSS toolkit"
 * [Glyphicon](http://glyphicons.com/): "Precisely prepared monochromatic icons and symbols"
+* [GlyphSearch](http://glyphsearch.com/): "Search icon engine in libraries (Font Awesome, Foundation, Glyhicons, IcoMoon, Ionicons, Material & Octicons"
 * [The NounProject](https://thenounproject.com/): "Creating, Sharing and Celebrating the World's Visual Language"
 * Yours?
 
