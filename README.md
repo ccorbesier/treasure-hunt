@@ -122,7 +122,8 @@ The treasure you're looking for may be here...
 
 ## Colors
 * [Adobe Color CC](https://color.adobe.com/create/color-wheel/): Previously named Adobe Kuler
-* [Coolors](http://coolors.co/): "The super fast colour schemes generator for cool designers! "
+* [Coolors](http://coolors.co/): "The super fast colour schemes generator for cool designers!"
+* [Cohesive colors](http://javierbyte.github.io/cohesive-colors/): "This is a tool that may help you to create more cohesive color schemes"
 * Yours?
 
 ## Compatibility
