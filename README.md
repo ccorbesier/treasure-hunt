@@ -1,13 +1,28 @@
 # Treasure hunt
 The treasure you're looking for may be here... 
 ## Table of content
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+* [CSS](#css)
+* [JS](#js)
+* [UX design](#ux-design)
+* [UX tools](#ux-tools)
+* [UI tools](#ui-tools)
+* [Icons](#icons)
+* [Generators](#generators)
+* [Frameworks](#frameworks)
+* [Prototypes](#prototypes)
+* [Slideshows](#slideshows)
+* [Tutorials](#tutorials)
+* [Snippets](#snippets)
+* [GIS](#gis)
+* [Data viz](#data-viz)
+* [Inspirations](#inspirations)
+* [Freebies](#freebies)
+* [Colors](#colors)
+* [Compatibility](#compatibility)
+* [Technology watching](#technology-watch)
+* [Reading/books](#reading-books)
+* [Editors](#editors)
+* [Need to be sorted](#not-sorted)
 
 ## <a name="css"></a>CSS
 * [BASSCSS](http://www.basscss.com/): "Low-level CSS toolkit"
@@ -146,7 +161,7 @@ The treasure you're looking for may be here...
 * [Resizr](http://resizr.co/): "Test your responsive web page"
 *  Yours?
 
-## <a name="technology-watch"></a>Technology watch
+## <a name="technology-watch"></a>Technology watching
 * [24 ways](http://24ways.org/): "24 ways to improve your friends"
 * [Alsacréations](http://www.alsacreations.com/): "Communauté d'apprentissage des standards du web"
 * [Butinage *](http://makina-corpus.com/@@search?sort_on=Date&sort_order=reverse&SearchableText=butinage): La veille technologique selon Makina Corpus.
