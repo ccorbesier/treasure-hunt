@@ -1,7 +1,15 @@
 # Treasure hunt
 The treasure you're looking for may be here... 
+## Table of content
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
 
-## CSS
+## <a name="css"></a>CSS
 * [BASSCSS](http://www.basscss.com/): "Low-level CSS toolkit"
 * [Hover.css](http://ianlunn.github.io/Hover/): "A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on"
 * [SCUT](http://davidtheclark.github.io/scut/index.html): "SASS utilities for the frontend laborer"
@@ -11,7 +19,7 @@ The treasure you're looking for may be here...
 * [The CSS Transitions Cheatsheet](http://www.kirupa.com/html5/css_transitions_cheatsheet.htm?utm_content=buffer9bca0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer): "When it comes to CSS Transitions, you don't need a bazillion pages of content or even a book to quickly figure out something."
 * Yours?
 
-## JS
+## <a name="js"></a>JS
 * [Alertify.js](http://fabien-d.github.io/alertify.js/): "Browser dialogs never looked so good"
 * [Autocompeter](https://autocompeter.com/): "A really fast AJAX autocomplete service and widget"
 * [Fotorama](http://fotorama.io/): "A simple, stunning, powerful jQuery gallery"
@@ -30,7 +38,7 @@ The treasure you're looking for may be here...
 * [Zepto.js](http://zeptojs.com/): "A minimalist JavaScript library for modern browsers with a largely jQuery-compatible API"
 * Yours?
 
-## UX Design
+## <a name="ux-design"></a>UX Design
 * [52 weeks of UX](http://52weeksofux.com/): "A discourse on the process of designing for real people"
 * [A list apart](http://alistapart.com/topics/user-experience): "A List Apart explores the design, development, and meaning of web content, with a special focus on web standards and best practices"
 * [Adaptative path](http://www.adaptivepath.com/ideas/): "A passionate community"
@@ -44,15 +52,15 @@ The treasure you're looking for may be here...
 * [UX Podcast](http://uxpodcast.com/): "It’s not just for UXers, it’s for everyone with a foot in the digital door"
 * [UX und Tollerei](http://uxundtollerei.com/): "A weekly curated reading list of noteworthy articles, resources and news about the latest trends, techniques and insights from the UX community"
 
-### UX tools
+### <a name="ux-tools"></a>UX tools
 * [Draw.io](https://www.draw.io/): Powerfull tool to draw charts.
 * [UXPin](https://www.uxpin.com/): "UXPin is used by the best designers on the planet. Join them"
 * [UX Recipe](http://uxrecipe.github.io/): "This project is a personal manifesto against the objectification of the term "UX". It's more than UI, it's more than a PSD file"
 
-### UI tools
+### <a name="ui-tools"></a>UI tools
 * [Gravit](http://about.gravit.io/): "Design Better, Collaborate Faster"
 
-## Icons
+## <a name="icons"></a>Icons
 * [365 PSD](http://365psd.com/): "At the begining, 1 PSD/day during a year. Now, more than a million"
 * [Entypo](http://www.entypo.com/): "411 carefully crafted premium pictograms"
 * [Flaticon](http://www.flaticon.com/): "The largest database of free vector icons"
@@ -62,7 +70,7 @@ The treasure you're looking for may be here...
 * [The NounProject](https://thenounproject.com/): "Creating, Sharing and Celebrating the World's Visual Language"
 * Yours?
 
-## Generators
+## <a name="generators"></a>Generators
 * [Bootstrap forms generator](http://bootsnipp.com/forms?version=3): Works for Bootstrap 2 and 3.
 * [Border radius](http://border-radius.com/): The easiest way to generate prefixed CSS border radius. Clear, simple, easy
 * [Box shadow](http://css3gen.com/box-shadow/): "CSS3 Box Shadow Generator"
@@ -72,41 +80,41 @@ The treasure you're looking for may be here...
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/): "A powerful Photoshop-like CSS gradient editor"
 * Yours?
 
-## Frameworks
+## <a name="frameworks"></a>Frameworks
 * [Bootstrap](http://getbootstrap.com/): "The most popular HTML, CSS, and JS framework for developing responsive"
 * [Ratchet](http://goratchet.com/): "Build mobile apps with simple HTML‚ CSS‚ and JS components"
 * [Zurb Foundation](http://foundation.zurb.com/): "The most advanced responsive front-end framework in the world"
 * [Zurb Foundation for Apps](http://foundation.zurb.com/apps/): "The first front-end framework created for developing fully responsive web apps"
 * Yours?
 
-## Prototypes
+## <a name="prototypes"></a>Prototypes
 * [Flat UI](http://designmodo.github.io/Flat-UI/): "Free User Interface Kit based on Bootstrap"
 * [Pingendo](http://pingendo.com/): "The simplest app for Bootstrap prototyping"
 
-## Slideshows
+## <a name="slideshows"></a>Slideshows
 * [Hyhyhy](https://github.com/maciejczyzewski/hyhyhy): "A Ruby library for creating and outputting professional, business-looking (HTML5) presentations that can be viewed inside the browser!"
 
-## Tutorials
+## <a name="tutorials"></a>Tutorials
 * [Daring Fireball - Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax): "Markdown is a text-to-HTML conversion tool for web writers"
 * [Front-End Tutorials Blog](http://www.frontendtutorials.org/): "Web Developers Blog | Free Web Design Tutorials, Tips & Tricks"
 * [Tympanus Codrops Tutorials](http://tympanus.net/codrops/category/tutorials): "In-depth how-tos involving common web development and web design techniques"
 *  Yours?
 
-## Snippets
+## <a name="snippets"></a>Snippets
 * [Bootsnipp](http://bootsnipp.com/): "Design elements, playground and code snippets for Bootstrap"
 * [CSS-Tricks Code Snippets](http://css-tricks.com/snippets/): "Over the years, despite the hokey name, CSS-Tricks has come to become a site about all things web design and development"
 * Yours?
 
-## GIS
+## <a name="gis"></a>GIS
 * [Leaflet](http://leafletjs.com/): "An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps"
 * [OpenLayers 3](http://openlayers.org/): "A high-performance, feature-packed library for all your mapping needs"
 * Yours?
 
-## Data viz
+## <a name="data-viz"></a>Data viz
 * [D3 (Data-Drive Documents)](http://d3js.org/): "JavaScript library for manipulating documents based on data"
 * Yours?
 
-## Inspirations
+## <a name="inspirations"></a>Inspirations
 * [Awwwards](http://www.awwwards.com/): "The awards for design, creativity and innovation on the Internet"
 * [Behance](https://www.behance.net/): "Showcase & Discover Creative Work"
 * [Bootstrap Zero](http://bootstrapzero.com/): "The largest open-source, free Bootstrap template collection"
@@ -120,17 +128,17 @@ The treasure you're looking for may be here...
 * [{wrap}bootstrap](https://wrapbootstrap.com/): Themes & templates based on Bootstrap
 * Yours?
 
-## Freebies
+## <a name="freebies"></a>Freebies
 * [50 Free Bootstrap Resources, Tools, and Designs](http://designposts.net/50-free-bootstrap-resources-tools-and-design/): "While bootstrap it is immensely useful, you can use several plugins and extensions to make it even more powerful"
 * Yours?
 
-## Colors
+## <a name="colors"></a>Colors
 * [Adobe Color CC](https://color.adobe.com/create/color-wheel/): Previously named Adobe Kuler
 * [Coolors](http://coolors.co/): "The super fast colour schemes generator for cool designers!"
 * [Cohesive colors](http://javierbyte.github.io/cohesive-colors/): "This is a tool that may help you to create more cohesive color schemes"
 * Yours?
 
-## Compatibility
+## <a name="compatibility"></a>Compatibility
 * [Character Entity Reference Chart](http://dev.w3.org/html5/html-author/charref): Easy to use.
 * [Compatibility tables compendium](http://www.zachleat.com/web/compatibility/): "When it comes to web development, nothing beats a good compatibility table"
 * [How we browse the web?](http://howwebrowse.be/fr): "Les stats sur l'internet en Belgique. Mises à jour mensuellement"
@@ -138,7 +146,7 @@ The treasure you're looking for may be here...
 * [Resizr](http://resizr.co/): "Test your responsive web page"
 *  Yours?
 
-## Technology watch
+## <a name="technology-watch"></a>Technology watch
 * [24 ways](http://24ways.org/): "24 ways to improve your friends"
 * [Alsacréations](http://www.alsacreations.com/): "Communauté d'apprentissage des standards du web"
 * [Butinage *](http://makina-corpus.com/@@search?sort_on=Date&sort_order=reverse&SearchableText=butinage): La veille technologique selon Makina Corpus.
@@ -149,7 +157,7 @@ The treasure you're looking for may be here...
 * [Webdesigner news](http://www.webdesignernews.com/): "Currated stories for designers"
 * Yours?
 
-## Readings/books
+## <a name="reading-books"></a>Readings/books
 * [CSS maintenables avec SASS et Compass](http://www.css-maintenables.fr/)
 * [CSS3 pour les web designers](http://www.eyrolles.com/Informatique/Livre/css3-pour-les-web-designers-9782212129878)
 * [Design d'expérience utilisateur - Principes et méthodes UX](http://www.eyrolles.com/Informatique/Livre/design-d-experience-utilisateur-9782212134568)
@@ -174,13 +182,13 @@ The treasure you're looking for may be here...
 * [UX, UI, c'est différent et c'est pas pareil](http://blog.lunaweb.fr/ux-ui-experience-utilisateur-interface/): "Expérience utilisateur, design web et café chaud"
 * Yours?
 
-## Editors
+## <a name="editors"></a>Editors
 * [Atom](https://atom.io/): "A hackable text editor for the 21st Century" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
 * [Brackets](http://brackets.io/): "A modern, open source text editor that understands web design" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
 * [Sublime Text](http://www.sublimetext.com/): "Sublime Text is a sophisticated text editor for code, markup and prose" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
 * Yours?
 
-## Need to be sorted
+## <a name="not-sorted"></a>Need to be sorted
 * [Collective #160](http://tympanus.net/codrops/collective/collective-160/): "30 species * Textures.js * Logdown * type.js * Browser Input Events * sanitize.css * Readable Wearables"
 * [The Code Kit](http://www.thecodekit.com/?ref=webdesignernews): "A curated selection of essential web design and development tools, news, and inspiration"
 * Yours?
