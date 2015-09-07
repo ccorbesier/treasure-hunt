@@ -8,6 +8,7 @@ The treasure you're looking for may be here...
 * [SHRTHND](http://shrthnd.volume7.io/): Input your expanded CSS, SHRTHND will shortened it. Powerful tool.
 * [SMACSS](https://smacss.com/): "One of the most useful contributions to front-end discussions in years"
 * [Stitches](http://draeton.github.io/stitches/): "An HTML5 sprite sheet generator"
+* [The CSS Transitions Cheatsheet](http://www.kirupa.com/html5/css_transitions_cheatsheet.htm?utm_content=buffer9bca0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer): "When it comes to CSS Transitions, you don't need a bazillion pages of content or even a book to quickly figure out something."
 * Yours?
 
 ## JS
