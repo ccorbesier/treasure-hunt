@@ -60,6 +60,7 @@ The treasure you're looking for may be here...
 * [Adaptative path](http://www.adaptivepath.com/ideas/): "A passionate community"
 * [Boxes and arrows](http://boxesandarrows.com/): "Devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business"
 * [Medium](https://medium.com/search?q=ux): "A list about UX"
+* [UI Talks](http://talks.ui-patterns.com/?ref=hackingui): "Find conference talks on anything related to UX design"
 * [UX Booth](http://www.uxbooth.com/): "Stories by and for user experience professionals"
 * [UX Kingdom](http://www.uxkingdom.com/): "Content is king! A weekly e-mail with four links inside.  Each e-mail will have a great video, an engaging article, a slick UX related product, and a fun wild card"
 * [UX Magazine](http://uxmag.com/): "A free community resource exploring all facets of experience design"
