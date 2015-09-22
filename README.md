@@ -6,6 +6,7 @@ The treasure you're looking for may be here...
 * [UX design](#ux-design)
 * [UX tools](#ux-tools)
 * [UI tools](#ui-tools)
+* [Hashtags](#hashtags)
 * [Icons](#icons)
 * [Generators](#generators)
 * [Frameworks](#frameworks)
@@ -74,6 +75,9 @@ The treasure you're looking for may be here...
 
 ### <a name="ui-tools"></a>UI tools
 * [Gravit](http://about.gravit.io/): "Design Better, Collaborate Faster"
+
+### <a name="hashtags"></a>Hashtags
+* [#DWMAJ](https://dwm.re/tweet/): "Tout ce que tu trouves nous intéresse, tout ce que nous sommes, faisons, aimons en tant que DWM"
 
 ## <a name="icons"></a>Icons
 * [365 PSD](http://365psd.com/): "At the begining, 1 PSD/day during a year. Now, more than a million"
