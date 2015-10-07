@@ -18,6 +18,7 @@ The treasure you're looking for may be here...
 * [Data viz](#data-viz)
 * [Inspirations](#inspirations)
 * [Freebies](#freebies)
+* [Fonts](#fonts)
 * [Colors](#colors)
 * [Compatibility](#compatibility)
 * [Technology watching](#technology-watch)
@@ -151,6 +152,10 @@ The treasure you're looking for may be here...
 ## <a name="freebies"></a>Freebies
 * [50 Free Bootstrap Resources, Tools, and Designs](http://designposts.net/50-free-bootstrap-resources-tools-and-design/): "While bootstrap it is immensely useful, you can use several plugins and extensions to make it even more powerful"
 * [Pixabay](https://pixabay.com/): "Free high quality images you can use anywhere"
+* Yours?
+
+## <a name="fonts"></a>Fonts
+* [Justrajdeep's ttf fonts](https://github.com/justrajdeep/fonts)
 * Yours?
 
 ## <a name="colors"></a>Colors
