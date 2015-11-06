@@ -212,6 +212,7 @@ The treasure you're looking for may be here...
 ## <a name="editors"></a>Editors
 * [Atom](https://atom.io/): "A hackable text editor for the 21st Century" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
 * [Brackets](http://brackets.io/): "A modern, open source text editor that understands web design" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
+* [Visual Studio Code](https://code.visualstudio.com/): "Build and debug modern web and cloud applications. Code is free and available on your favorite platform" - Available for Mac OS, Linux (for sure Ubuntu) & Windows.
 * [Sublime Text](http://www.sublimetext.com/): "Sublime Text is a sophisticated text editor for code, markup and prose" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
 * Yours?
 
