@@ -89,6 +89,7 @@ The treasure you're looking for may be here...
 * [Glyphicon](http://glyphicons.com/): "Precisely prepared monochromatic icons and symbols"
 * [GlyphSearch](http://glyphsearch.com/): "Search icon engine in libraries (Font Awesome, Foundation, Glyhicons, IcoMoon, Ionicons, Material & Octicons"
 * [The NounProject](https://thenounproject.com/): "Creating, Sharing and Celebrating the World's Visual Language"
+* [Vaadin Font Icons](https://vaadin.com/font-icons): "530 unique icons designed for web applications"
 * Yours?
 
 ## <a name="generators"></a>Generators
