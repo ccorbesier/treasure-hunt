@@ -165,6 +165,7 @@ The treasure you're looking for may be here...
 * [Coolors](http://coolors.co/): "The super fast colour schemes generator for cool designers!"
 * [Cohesive colors](http://javierbyte.github.io/cohesive-colors/): "This is a tool that may help you to create more cohesive color schemes"
 * [HTML Color Codes](http://htmlcolorcodes.com/): "Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names."
+* [HTML CSS Color](http://www.htmlcsscolor.com/): "HTML CSS Color Picker"
 * Yours?
 
 ## <a name="compatibility"></a>Compatibility
