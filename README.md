@@ -121,7 +121,7 @@ The treasure you're looking for may be here...
 * [Daring Fireball - Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax): "Markdown is a text-to-HTML conversion tool for web writers"
 * [Front-End Tutorials Blog](http://www.frontendtutorials.org/): "Web Developers Blog | Free Web Design Tutorials, Tips & Tricks"
 * [Tympanus Codrops Tutorials](http://tympanus.net/codrops/category/tutorials): "In-depth how-tos involving common web development and web design techniques"
-*  Yours?
+* Yours?
 
 ## <a name="snippets"></a>Snippets
 * [Bootsnipp](http://bootsnipp.com/): "Design elements, playground and code snippets for Bootstrap"
@@ -174,7 +174,7 @@ The treasure you're looking for may be here...
 * [How we browse the web?](http://howwebrowse.be/fr): "Les stats sur l'internet en Belgique. Mises à jour mensuellement"
 * [HTML5Test](https://html5test.com/index.html): "How well does your browser support html5?"
 * [Resizr](http://resizr.co/): "Test your responsive web page"
-*  Yours?
+* Yours?
 
 ## <a name="technology-watch"></a>Technology watching
 * [24 ways](http://24ways.org/): "24 ways to improve your friends"
@@ -216,6 +216,7 @@ The treasure you're looking for may be here...
 * [Atom](https://atom.io/): "A hackable text editor for the 21st Century" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
 * [Brackets](http://brackets.io/): "A modern, open source text editor that understands web design" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
 * [Sublime Text](http://www.sublimetext.com/): "Sublime Text is a sophisticated text editor for code, markup and prose" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
+* [Typora](https://typora.io/): "A minimal markdown reading & writing app" - The best Markdown editor. Available for Mac OS & Windows
 * [Visual Studio Code](https://code.visualstudio.com/): "Build and debug modern web and cloud applications. Code is free and available on your favorite platform" - Available for Mac OS, Linux (for sure Ubuntu) & Windows
 * Yours?
 
